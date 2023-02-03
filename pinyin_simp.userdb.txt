@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	9
+#@/user_id	881be20d-8ad9-4b8c-b3d2-9e4d79109605
+ba 	吧	c=1 d=1 t=9
+kai xin 	开心	c=0 d=0.0985112 t=9
+le 	了	c=2 d=1.97521 t=9
+n 	嗯	c=1 d=0.985112 t=9
+ni 	你	c=0 d=0.0985112 t=9
+ni kai xin 	你开心	c=1 d=0.99005 t=9
+pin yin 	拼音	c=1 d=0.970446 t=9
+shi 	是	c=1 d=0.965605 t=9
+shu ru fa 	输入法	c=1 d=0.97531 t=9
+xian zai 	现在	c=1 d=0.960789 t=9

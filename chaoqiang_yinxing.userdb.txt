@@ -1,0 +1,1349 @@
+# Rime user dictionary
+#@/db_name	chaoqiang_yinxing.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	337
+#@/user_id	881be20d-8ad9-4b8c-b3d2-9e4d79109605
+a 	安	c=1 d=0.822835 t=337
+al 	啊	c=16 d=6.93527 t=337
+aojh 	安静	c=2 d=1.49279 t=337
+aozy 	安装	c=1 d=0.810584 t=337
+as 	暗	c=6 d=5.55387 t=337
+asy 	暗	c=1 d=0.960789 t=337
+auzs 	按照	c=1 d=0.860708 t=337
+b 	不	c=28 d=13.7311 t=337
+bix 	半	c=2 d=1.62125 t=337
+bk 	百	c=2 d=1.6942 t=337
+bkgs 	不过是	c=1 d=0.941765 t=337
+bl 	别	c=3 d=2.21543 t=337
+blm 	吧	c=4 d=2.91638 t=337
+blnu 	别扭	c=1 d=0.869358 t=337
+blsg 	别墅	c=1 d=1 t=337
+bpcy 	补充	c=1 d=0.690734 t=337
+bqj 	笨	c=1 d=0.647265 t=337
+bum 	报	c=2 d=1.54212 t=337
+burg 	播	c=1 d=0.970446 t=337
+bwe 	版	c=1 d=0.951229 t=337
+bwr 	兵	c=1 d=0.843665 t=337
+cb 	草	c=2 d=1.97045 t=337
+cd 	尘	c=2 d=1.38364 t=337
+cis 	曾	c=1 d=0.900325 t=337
+cj 	才	c=2 d=1.44264 t=337
+cjmd 	聪明的	c=1 d=0.955997 t=337
+cjms 	聪明	c=3 d=2.83039 t=337
+cl 	吃	c=5 d=4.11099 t=337
+cmqv 	出去	c=1 d=0.932394 t=337
+coyv 	穿越	c=1 d=0.810584 t=337
+cqqp 	重启	c=1 d=1 t=337
+cuzf 	操作	c=1 d=0.869358 t=337
+cvsy 	城市	c=1 d=1 t=337
+cvv 	叉	c=1 d=0.806541 t=337
+cx 	查	c=2 d=1.92774 t=337
+cy 	次	c=1 d=1 t=337
+cz 	错	c=1 d=1 t=337
+d 	的	c=17 d=6.7232 t=337
+da 	点	c=2 d=1.61316 t=337
+dajh 	点击	c=1 d=0.895834 t=337
+ddzm 	肚子	c=2 d=1.82283 t=337
+dfqi 	当前	c=1 d=0.66365 t=337
+dghp 	电话	c=1 d=0.951229 t=337
+dgnd 	电脑	c=2 d=1.59452 t=337
+dgys 	电影	c=1 d=0.677057 t=337
+dilh 	道理	c=1 d=0.913931 t=337
+dizme 	单子	c=1 d=0.748264 t=337
+dj 	都	c=3 d=2.04612 t=337
+dk 	大	c=3 d=2.69688 t=337
+dkxp 	大写	c=1 d=0.985112 t=337
+dkxt 	大象	c=1 d=0.606531 t=337
+dm 	到	c=1 d=0.852144 t=337
+dmg 	蛋	c=2 d=1.60906 t=337
+dqn 	第	c=1 d=0.615697 t=337
+dt 	多	c=1 d=0.985112 t=337
+du 	打	c=1 d=0.941765 t=337
+dukh 	打开	c=1 d=0.843665 t=337
+duyt 	打印	c=1 d=0.66034 t=337
+eh 	二	c=1 d=0.618783 t=337
+ehxb 	二线	c=1 d=1 t=337
+et 	儿	c=1 d=1 t=337
+fbwg 	范围	c=1 d=1 t=337
+fe 	反	c=2 d=1.92774 t=337
+fecx 	反查	c=2 d=1.77386 t=337
+fp 	房	c=1 d=0.677057 t=337
+fq 	复	c=2 d=1.95551 t=337
+fqtf 	繁体	c=1 d=1 t=337
+fyq 	放	c=1 d=0.951229 t=337
+g 	个	c=9 d=4.44768 t=337
+gb 	给	c=1 d=0.932394 t=337
+gg 	国	c=1 d=0.818731 t=337
+ggv 	果	c=2 d=1.42746 t=337
+gj 	过	c=1 d=0.909373 t=337
+gjqve 	过去	c=1 d=0.83527 t=337
+gjxy 	更新	c=1 d=0.687289 t=337
+gjzf 	工作	c=1 d=0.782705 t=337
+gnq 	敢	c=4 d=3.75396 t=337
+grhf 	公会	c=1 d=0.609571 t=337
+gxzme 	柜子	c=2 d=1.66641 t=337
+gy 	高	c=1 d=0.814647 t=337
+gyc 	广	c=1 d=0.818731 t=337
+gzt 	歌	c=1 d=0.965605 t=337
+hb 	花	c=1 d=0.970446 t=337
+hbhb 	缓缓	c=1 d=0.99005 t=337
+hc 	好	c=4 d=2.23787 t=337
+hckq 	好看	c=1 d=0.794534 t=337
+he 	后	c=2 d=1.71755 t=337
+hen 	很	c=3 d=1.91842 t=337
+hey 	航	c=1 d=1 t=337
+hfh 	会	c=1 d=0.634448 t=337
+hgjo 	回家	c=4 d=2.27774 t=337
+hgo 	黑	c=2 d=1.679 t=337
+hk 	还	c=12 d=6.60677 t=337
+hofq 	恢复	c=1 d=1 t=337
+hp 	话	c=1 d=0.852144 t=337
+hql 	和	c=2 d=1.48 t=337
+hut 	换	c=2 d=1.58939 t=337
+j 	就	c=7 d=3.92176 t=337
+jd 	脚	c=1 d=0.603506 t=337
+jfgx 	价格	c=1 d=0.680451 t=337
+jib 	卷	c=1 d=1 t=337
+jj 	教	c=1 d=0.628135 t=337
+jjq 	救	c=1 d=0.625002 t=337
+jns 	剧	c=1 d=0.814647 t=337
+jqcx 	稽查	c=1 d=0.715338 t=337
+jtc 	解	c=1 d=0.798516 t=337
+jtjy 	解决	c=1 d=0.752014 t=337
+jtxx 	解析	c=1 d=0.65377 t=337
+jxcx 	检查	c=1 d=0.722527 t=337
+jxzqi 	机长	c=1 d=0.70822 t=337
+jzxf 	镜像	c=1 d=0.923116 t=337
+ka 	卡	c=1 d=1 t=337
+kgk 	颗	c=2 d=1.90256 t=337
+kgnv 	困难	c=1 d=0.839457 t=337
+kh 	开	c=2 d=1.47794 t=337
+khqp 	开启	c=1 d=0.873716 t=337
+ko 	快	c=1 d=0.683861 t=337
+koj 	空	c=1 d=0.612626 t=337
+kot 	客	c=1 d=0.97531 t=337
+kq 	看	c=5 d=3.97897 t=337
+kys 	刻	c=1 d=0.985112 t=337
+l 	了	c=21 d=10.5546 t=337
+lcy 	流	c=1 d=1 t=337
+lg 	里	c=1 d=0.740818 t=337
+li 	类	c=1 d=0.621885 t=337
+lks 	列	c=1 d=1 t=337
+llje 	路径	c=1 d=0.666977 t=337
+m 	们	c=3 d=2.43653 t=337
+mb 	买	c=3 d=1.70271 t=337
+mc 	没	c=3 d=2.30518 t=337
+mcb 	妈	c=1 d=0.891366 t=337
+mcyk 	没有	c=1 d=1 t=47
+migg 	美国	c=1 d=0.67032 t=337
+mk 	面	c=1 d=1 t=337
+mos 	慢	c=1 d=0.701173 t=337
+mqcy 	每次	c=1 d=0.891366 t=337
+mt 	么	c=15 d=6.54229 t=337
+n 	你	c=19 d=9.43435 t=337
+ngc 	男	c=1 d=0.878095 t=337
+nl 	呢	c=6 d=2.99959 t=337
+nln 	哪	c=3 d=1.78376 t=337
+nn 	那	c=4 d=2.96644 t=337
+nnmt 	那么	c=1 d=0.818731 t=337
+nssa 	你是谁啊	c=1 d=0.882497 t=337
+nv 	能	c=7 d=3.70131 t=337
+nvf 	难	c=1 d=1 t=337
+ol 	哦	c=1 d=0.726149 t=337
+p 	平	c=2 d=1.78543 t=337
+pcv 	皮	c=3 d=2.73737 t=337
+pfhc 	偏好	c=2 d=1.34071 t=337
+pfhl 	皮肤护理	c=1 d=0.67368 t=337
+pltb 	平台版	c=1 d=0.965605 t=337
+puyy 	拼音	c=1 d=1 t=337
+qfys 	企业	c=1 d=0.687289 t=337
+qqx 	千	c=1 d=1 t=337
+qv 	去	c=1 d=0.865022 t=337
+qvll 	起来	c=1 d=0.733447 t=337
+r 	人	c=1 d=1 t=337
+rcl 	如	c=1 d=0.814647 t=337
+rp 	让	c=3 d=2.10401 t=337
+rthe 	然后	c=2 d=1.32202 t=337
+s 	是	c=15 d=5.73503 t=337
+sabh 	上班	c=2 d=1.62409 t=337
+sayye 	上瘾	c=1 d=0.946485 t=337
+sbzd 	是不知道	c=1 d=0.878095 t=337
+sffd 	舒服	c=5 d=4.54733 t=337
+sfmt 	什么	c=4 d=2.76709 t=337
+sh 	三	c=1 d=0.955997 t=337
+sk 	死	c=1 d=1 t=337
+skr 	爽	c=6 d=5.29117 t=337
+slf 	啥	c=5 d=3.09989 t=337
+smdm 	收到	c=1 d=1 t=48
+smk 	随	c=2 d=1.89084 t=337
+smrf 	输入法	c=1 d=0.970446 t=337
+sp 	说	c=4 d=2.71145 t=337
+spf 	谁	c=3 d=1.79872 t=337
+splm 	说了	c=1 d=0.865022 t=337
+sptb 	双平台版	c=1 d=0.955997 t=337
+spzg 	设置	c=2 d=1.34743 t=337
+sqg 	算	c=1 d=0.790571 t=337
+sqjb 	升级	c=1 d=0.83527 t=337
+sqxy 	生效	c=1 d=0.88692 t=337
+ss 	时	c=2 d=1.79616 t=337
+sshf 	时候	c=2 d=1.96546 t=337
+sujx 	手机	c=1 d=0.955997 t=337
+sunn 	撒尿	c=1 d=0.826959 t=337
+sv 	双	c=3 d=2.5223 t=337
+svpt 	双平台	c=1 d=0.960789 t=337
+swsa 	身上	c=1 d=1 t=337
+t 	他	c=3 d=2.48567 t=337
+tdn 	腿	c=1 d=0.802519 t=337
+tk 	太	c=2 d=1.2297 t=337
+tl 	听	c=1 d=0.960789 t=337
+tush 	提示	c=3 d=2.62229 t=337
+tvl 	台	c=1 d=0.946485 t=337
+us 	已	c=1 d=1 t=337
+v 	这	c=5 d=3.15387 t=337
+vi 	——	c=2 d=1.91353 t=337
+wexf 	微信	c=2 d=1.3746 t=337
+whll 	未来	c=1 d=0.680451 t=337
+whsh 	我还是和	c=1 d=0.806541 t=337
+wi 	为	c=2 d=1.2161 t=337
+wisl 	为啥	c=3 d=2.40851 t=337
+wjbq 	五笔	c=1 d=0.99005 t=337
+wl 	味	c=1 d=0.882497 t=337
+wmc 	万	c=1 d=1 t=337
+wq 	我	c=20 d=9.64098 t=337
+wssa 	晚上	c=2 d=1.50158 t=337
+wuts 	问题	c=1 d=0.759572 t=337
+wxzh 	我现在还	c=1 d=0.873716 t=337
+x 	学	c=1 d=0.640824 t=337
+xa 	些	c=1 d=0.70822 t=337
+xbg 	细	c=1 d=0.873716 t=337
+xd 	小	c=4 d=2.5543 t=337
+xe 	行	c=1 d=0.995012 t=337
+xf 	像	c=1 d=0.737123 t=337
+xfnc 	仙女	c=1 d=0.759572 t=337
+xhzk 	现在	c=5 d=3.07713 t=337
+xj 	下	c=4 d=2.73386 t=337
+xjmg 	项目	c=2 d=1.34494 t=337
+xk 	雄	c=1 d=1 t=337
+xom 	学	c=1 d=0.612626 t=337
+xp 	心	c=2 d=1.91209 t=337
+xpqo 	心情	c=1 d=0.818731 t=337
+xqp 	选	c=1 d=0.960789 t=337
+xttb 	系统	c=2 d=1.32737 t=337
+xv 	习	c=1 d=0.644036 t=337
+xx 	想	c=8 d=6.09784 t=337
+y 	一	c=15 d=7.74189 t=337
+ybwy 	英文	c=1 d=0.697676 t=337
+ybyp 	英语	c=1 d=0.615697 t=337
+ycmk 	源码	c=2 d=1.24206 t=337
+yfrt 	依然	c=1 d=0.904837 t=337
+yhdh 	运动	c=1 d=0.891366 t=337
+yidk 	养大	c=1 d=1 t=337
+yixa 	丫	c=2 d=1.79353 t=337
+yj 	要	c=1 d=1 t=337
+yk 	有	c=2 d=1.48432 t=337
+ykbw 	原版	c=1 d=0.918512 t=337
+ykv 	友	c=1 d=1 t=337
+ykvv 	压	c=2 d=1.96561 t=337
+yl 	呀	c=1 d=1 t=337
+ym 	也	c=1 d=1 t=337
+ymym 	医院	c=1 d=0.927743 t=337
+yolo 	慵懒	c=1 d=0.932394 t=337
+ysg 	映	c=1 d=0.690734 t=337
+yt 	用	c=2 d=1.93635 t=337
+yv 	又	c=1 d=0.923116 t=337
+yygp 	应该	c=1 d=0.843665 t=337
+yyyte 	音乐	c=1 d=0.694197 t=337
+z 	在	c=2 d=1.74595 t=337
+zbhfe 	组合	c=1 d=0.882497 t=337
+zf 	作	c=2 d=1.64156 t=337
+zfca 	值此	c=1 d=1 t=337
+zfj 	做	c=1 d=0.88692 t=337
+zgca 	中餐	c=1 d=0.995012 t=337
+zggg 	中国	c=1 d=0.704688 t=337
+zgwy 	中文	c=2 d=1.98506 t=337
+zi 	着	c=1 d=0.860708 t=337
+zlq 	咋	c=2 d=1.47057 t=337
+zotf 	字体	c=1 d=1 t=337
+zqdi 	知道	c=4 d=2.48507 t=337
+zql 	知	c=1 d=1 t=337
+zqmt 	怎么	c=1 d=1 t=337
+zqs 	制	c=3 d=2.66596 t=337
+zqs 	智	c=1 d=0.860708 t=337
+zsje 	最近	c=3 d=1.92774 t=337
+zw 	自	c=1 d=1 t=337
+zwjn 	自己	c=1 d=0.826959 t=337
+encagz 	安柜子	c=0 d=0.0826959 t=337
+encagzd 	安柜子的	c=0 d=0.0831104 t=337
+encaja 	安静啊	c=0 d=0.0752014 t=337
+encajz 	安柜子	c=0 d=0.0826959 t=337
+encajzd 	安柜子的	c=0 d=0.0831104 t=337
+encaogz 	安柜子	c=0 d=0.0826959 t=337
+encaoja 	安静啊	c=0 d=0.0752014 t=337
+encaojz 	安柜子	c=0 d=0.0826959 t=337
+encazds 	按照提示	c=0 d=0.0865022 t=337
+encazts 	按照提示	c=0 d=0.0865022 t=337
+encbagz 	半安柜子	c=0 d=0.0826959 t=337
+encbajz 	半安柜子	c=0 d=0.0826959 t=337
+encbca 	不错啊	c=0 d=0.1 t=337
+encbcc 	不吃草	c=0 d=0.1 t=337
+encbcl 	不吃	c=0 d=0.1 t=337
+encbcz 	不错	c=0 d=0.1 t=337
+encbdbk 	别的不看	c=0 d=0.0985112 t=337
+encbgn 	不敢	c=0 d=0.0965605 t=337
+encbgs 	不敢说	c=0 d=0.0970446 t=337
+encbgy 	不敢说	c=0 d=0.0970446 t=337
+encbha 	不会啊	c=0 d=0.0637628 t=337
+encbhc 	不好	c=0 d=0.0722527 t=337
+encbhf 	不会	c=0 d=0.0634448 t=337
+encbhk 	不好看	c=0 d=0.0794534 t=337
+encbhka 	不好看啊	c=0 d=0.0798516 t=337
+encbia 	半安	c=0 d=0.0822835 t=337
+encbiao 	半安	c=0 d=0.0822835 t=337
+encbka 	不会啊	c=0 d=0.0637628 t=337
+encbkca 	不错啊	c=0 d=0.1 t=337
+encbkcc 	不吃草	c=0 d=0.1 t=337
+encbkcl 	不吃	c=0 d=0.1 t=337
+encbkcz 	不错	c=0 d=0.1 t=337
+encbkf 	不会	c=0 d=0.0634448 t=337
+encbkgn 	不敢	c=0 d=0.0965605 t=337
+encbkgs 	不敢说	c=0 d=0.0970446 t=337
+encbkgy 	不敢说	c=0 d=0.0970446 t=337
+encbkha 	不会啊	c=0 d=0.0637628 t=337
+encbkhc 	不好	c=0 d=0.0722527 t=337
+encbkhf 	不会	c=0 d=0.0634448 t=337
+encbkhk 	不好看	c=0 d=0.0794534 t=337
+encbkka 	不会啊	c=0 d=0.0637628 t=337
+encbkkf 	不会	c=0 d=0.0634448 t=337
+encbkkq 	不看	c=0 d=0.0985112 t=337
+encbkl 	百了	c=0 d=0.0927743 t=337
+encbklm 	百了	c=0 d=0.0927743 t=337
+encbknj 	不能就	c=0 d=0.0786628 t=337
+encbkns 	不能说	c=0 d=0.0774916 t=337
+encbknv 	不能	c=0 d=0.0782705 t=337
+encbknw 	不能为	c=0 d=0.0609571 t=337
+encbkny 	不能说	c=0 d=0.0774916 t=337
+encbkq 	不看	c=0 d=0.0985112 t=337
+encbks 	不是	c=0 d=0.0847894 t=337
+encbksk 	不爽	c=0 d=0.1 t=337
+encbksm 	不是么	c=0 d=0.0852144 t=337
+encbkss 	不是	c=0 d=0.0847894 t=337
+encbksx 	不生效	c=0 d=0.088692 t=337
+encbkua 	不会啊	c=0 d=0.0637628 t=337
+encbkuf 	不会	c=0 d=0.0634448 t=337
+encbkxx 	不想	c=0 d=0.1 t=337
+encbkxx 	不想想	c=0 d=0.1 t=337
+encbkyj 	不要	c=0 d=0.1 t=337
+encbkyl 	不慵懒	c=0 d=0.0932394 t=337
+encbkym 	不要面	c=0 d=0.1 t=337
+encbkyt 	不用	c=0 d=0.0985112 t=337
+encbkzd 	不知道	c=0 d=0.0946485 t=337
+encbkzq 	不知	c=0 d=0.1 t=337
+encbld 	别的	c=0 d=0.097531 t=337
+encbldb 	别的不	c=0 d=0.0980199 t=337
+encbldw 	别的	c=0 d=0.097531 t=337
+encblrp 	别让	c=0 d=0.0918512 t=337
+encblrt 	别让他	c=0 d=0.0923116 t=337
+encblsl 	别说了	c=0 d=0.0865022 t=337
+encblyl 	别说了	c=0 d=0.0865022 t=337
+encbnj 	不能就	c=0 d=0.0786628 t=337
+encbnjs 	不能就算	c=0 d=0.0790571 t=337
+encbns 	不能说	c=0 d=0.0774916 t=337
+encbnsy 	不能说一	c=0 d=0.0778801 t=337
+encbnv 	不能	c=0 d=0.0782705 t=337
+encbnw 	不能为	c=0 d=0.0609571 t=337
+encbnwk 	不能为空	c=0 d=0.0612626 t=337
+encbny 	不能说	c=0 d=0.0774916 t=337
+encbnyy 	不能说一	c=0 d=0.0778801 t=337
+encbql 	笨了	c=0 d=0.0650509 t=337
+encbqlm 	笨了	c=0 d=0.0650509 t=337
+encbrtm 	别让他们	c=0 d=0.0927743 t=337
+encbs 	不是	c=0 d=0.0847894 t=337
+encbsk 	不爽	c=0 d=0.1 t=337
+encbsm 	不是么	c=0 d=0.0852144 t=337
+encbss 	不是	c=0 d=0.0847894 t=337
+encbsx 	不生效	c=0 d=0.088692 t=337
+encbua 	不会啊	c=0 d=0.0637628 t=337
+encbuf 	不会	c=0 d=0.0634448 t=337
+encbuj 	报就	c=0 d=0.0771052 t=337
+encbujb 	报就报	c=0 d=0.0774916 t=337
+encbujy 	报就	c=0 d=0.0771052 t=337
+encbuko 	播客	c=0 d=0.097531 t=337
+encbxx 	不想	c=0 d=0.1 t=337
+encbxx 	不想想	c=0 d=0.1 t=337
+encbxxl 	不想想了	c=0 d=0.1 t=337
+encbydn 	不用电脑	c=0 d=0.099005 t=337
+encbyj 	不要	c=0 d=0.1 t=337
+encbyl 	不慵懒	c=0 d=0.0932394 t=337
+encbym 	不要面	c=0 d=0.1 t=337
+encbyme 	不要面儿	c=0 d=0.1 t=337
+encbyt 	不用	c=0 d=0.0985112 t=337
+encbzd 	不知道	c=0 d=0.0946485 t=337
+encbzdn 	不知道你	c=0 d=0.0951229 t=337
+encbzdt 	不知道他	c=0 d=0.1 t=337
+encbzq 	不知	c=0 d=0.1 t=337
+encbzzm 	不知怎么	c=0 d=0.1 t=337
+enccbal 	草啊	c=0 d=0.1 t=337
+enccdsa 	吃的啥啊	c=0 d=0.0856415 t=337
+enccixg 	曾想过	c=0 d=0.0909373 t=337
+enccixx 	曾想	c=0 d=0.0904837 t=337
+encciza 	单子啊	c=0 d=0.0752014 t=337
+enccjmd 	聪明的	c=0 d=0.0965605 t=337
+enccjqb 	才千百	c=0 d=0.1 t=337
+enccjqq 	才千	c=0 d=0.1 t=337
+enccjzd 	才知道	c=0 d=0.0980199 t=337
+encclca 	吃草啊	c=0 d=0.1 t=337
+encclcb 	吃草	c=0 d=0.1 t=337
+enccld 	吃的	c=0 d=0.0847894 t=337
+encclds 	吃的啥	c=0 d=0.0852144 t=337
+enccldw 	吃的	c=0 d=0.0847894 t=337
+encclsl 	吃啥	c=0 d=0.1 t=337
+encclsy 	吃啥呀	c=0 d=0.1 t=337
+enccmql 	出去了	c=0 d=0.0937067 t=337
+enccobz 	次我不知	c=0 d=0.1 t=337
+enccoyj 	穿越剧	c=0 d=0.0814647 t=337
+enccqqb 	重启吧	c=0 d=0.1 t=337
+enccqqu 	重启吧	c=0 d=0.1 t=337
+enccvnn 	叉那	c=0 d=0.0810584 t=337
+enccwbz 	次我不知	c=0 d=0.1 t=337
+enccxgy 	曾想过一	c=0 d=0.0913931 t=337
+enccyjm 	穿越剧么	c=0 d=0.0818731 t=337
+enccyo 	次我	c=0 d=0.1 t=337
+enccyob 	次我不	c=0 d=0.1 t=337
+enccywb 	次我不	c=0 d=0.1 t=337
+enccywq 	次我	c=0 d=0.1 t=337
+encczal 	错啊	c=0 d=0.1 t=337
+encczdn 	才知道你	c=0 d=0.0985112 t=337
+encczkq 	操作开启	c=0 d=0.0873716 t=337
+encdaba 	点半安	c=0 d=0.0822835 t=337
+encdabi 	点半	c=0 d=0.0818731 t=337
+encdb 	的不	c=0 d=0.0980199 t=337
+encdbk 	的不	c=0 d=0.0980199 t=337
+encdbk 	的不看	c=0 d=0.0985112 t=337
+encdcz 	的单子	c=0 d=0.0748264 t=337
+encdcza 	的单子啊	c=0 d=0.0752014 t=337
+encddhg 	蛋蛋换个	c=0 d=0.0814647 t=337
+encddz 	的单子	c=0 d=0.0748264 t=337
+encddz 	的肚子	c=0 d=0.1 t=337
+encddza 	的单子啊	c=0 d=0.0752014 t=337
+encddza 	肚子啊	c=0 d=0.1 t=337
+encddzb 	的肚子不	c=0 d=0.1 t=337
+encddzb 	肚子不	c=0 d=0.1 t=337
+encdgdh 	打个电话	c=0 d=0.0951229 t=337
+encdgq 	的过去	c=0 d=0.083527 t=337
+encdgyd 	电影都	c=0 d=0.0680451 t=337
+encdhp 	的话	c=0 d=0.0852144 t=337
+encdila 	道理啊	c=0 d=0.0918512 t=337
+encdiza 	单子啊	c=0 d=0.0752014 t=337
+encdjko 	都快	c=0 d=0.0683861 t=337
+encdjkx 	都快下	c=0 d=0.0687289 t=337
+encdjs 	都是	c=0 d=0.0704688 t=337
+encdjss 	都是	c=0 d=0.0704688 t=337
+encdjsx 	都是些	c=0 d=0.070822 t=337
+encdjv 	都这	c=0 d=0.0737123 t=337
+encdjvm 	都这么	c=0 d=0.0740818 t=337
+encdjzm 	都这么	c=0 d=0.0740818 t=337
+encdjzy 	都这	c=0 d=0.0737123 t=337
+encdkj 	大就	c=0 d=0.1 t=337
+encdkjx 	大就雄	c=0 d=0.1 t=337
+encdkjy 	大就	c=0 d=0.1 t=337
+encdklb 	大流吧	c=0 d=0.1 t=337
+encdklc 	大流	c=0 d=0.1 t=337
+encdklu 	大流吧	c=0 d=0.1 t=337
+encdkxx 	大想	c=0 d=0.1 t=337
+encdkxx 	大想小	c=0 d=0.1 t=337
+encdkxy 	都快下映	c=0 d=0.0690734 t=337
+encdmdh 	蛋蛋换	c=0 d=0.0810584 t=337
+encdmdm 	蛋蛋	c=0 d=0.0806541 t=337
+encdmhg 	蛋换个	c=0 d=0.0814647 t=337
+encdmhu 	蛋换	c=0 d=0.0810584 t=337
+encdmt 	的么	c=0 d=0.1 t=337
+encdng 	的那个	c=0 d=0.067368 t=337
+encdnn 	的那	c=0 d=0.067032 t=337
+encdqeh 	第二	c=0 d=0.0618783 t=337
+encdqel 	第二类	c=0 d=0.0621885 t=337
+encdqlj 	当前路径	c=0 d=0.0666977 t=337
+encdsa 	的啥啊	c=0 d=0.0856415 t=337
+encdscz 	提示操作	c=0 d=0.0869358 t=337
+encdsl 	的啥	c=0 d=0.0852144 t=337
+encdsrf 	的输入法	c=0 d=0.0970446 t=337
+encdsxs 	都是些啥	c=0 d=0.071177 t=337
+encdsz 	的单子	c=0 d=0.0748264 t=337
+encdsza 	的单子啊	c=0 d=0.0752014 t=337
+encdtd 	的太多	c=0 d=0.0985112 t=337
+encdtk 	的太	c=0 d=0.0980199 t=337
+encdug 	打个	c=0 d=0.0946485 t=337
+encdugf 	打个	c=0 d=0.0946485 t=337
+encduso 	提示我	c=0 d=0.0852144 t=337
+encdusw 	提示我	c=0 d=0.0852144 t=337
+encdwb 	的不	c=0 d=0.0980199 t=337
+encdwbk 	的不	c=0 d=0.0980199 t=337
+encdwbk 	的不看	c=0 d=0.0985112 t=337
+encdwcz 	的单子	c=0 d=0.0748264 t=337
+encdwdz 	的单子	c=0 d=0.0748264 t=337
+encdwdz 	的肚子	c=0 d=0.1 t=337
+encdwgq 	的过去	c=0 d=0.083527 t=337
+encdwhp 	的话	c=0 d=0.0852144 t=337
+encdwmt 	的么	c=0 d=0.1 t=337
+encdwng 	的那个	c=0 d=0.067368 t=337
+encdwnn 	的那	c=0 d=0.067032 t=337
+encdwsa 	的啥啊	c=0 d=0.0856415 t=337
+encdwsl 	的啥	c=0 d=0.0852144 t=337
+encdwsz 	的单子	c=0 d=0.0748264 t=337
+encdwt 	的问题	c=0 d=0.0759572 t=337
+encdwtd 	的太多	c=0 d=0.0985112 t=337
+encdwtk 	的太	c=0 d=0.0980199 t=337
+encdwwt 	的问题	c=0 d=0.0759572 t=337
+encdwy 	的一	c=0 d=0.1 t=337
+encdwyg 	的一个	c=0 d=0.0752014 t=337
+encdwyz 	的一	c=0 d=0.1 t=337
+encdxgh 	大象公会	c=0 d=0.0609571 t=337
+encdxgk 	大象公会	c=0 d=0.0609571 t=337
+encdxgu 	大象公会	c=0 d=0.0609571 t=337
+encdxxj 	大想小就	c=0 d=0.1 t=337
+encdy 	的一	c=0 d=0.1 t=337
+encdydk 	电影都快	c=0 d=0.0683861 t=337
+encdydq 	打印当前	c=0 d=0.066365 t=337
+encdyg 	的一个	c=0 d=0.0752014 t=337
+encdygx 	的一个小	c=0 d=0.0755784 t=337
+encdyz 	的一	c=0 d=0.1 t=337
+encdzby 	肚子不要	c=0 d=0.1 t=337
+encehli 	二类	c=0 d=0.0621885 t=337
+encetal 	儿啊	c=0 d=0.1 t=337
+encexcs 	二线城市	c=0 d=0.1 t=337
+encfecd 	反查的	c=0 d=0.1 t=337
+encfecx 	反查	c=0 d=0.0995012 t=337
+encfezd 	反查的	c=0 d=0.1 t=337
+encfezx 	反查	c=0 d=0.1 t=337
+encfkym 	复刻源码	c=0 d=0.099005 t=337
+encfqky 	复刻	c=0 d=0.0985112 t=337
+encfykx 	放一颗心	c=0 d=0.0965605 t=337
+encfyy 	放一	c=0 d=0.0955997 t=337
+encfyyk 	放一颗	c=0 d=0.0960789 t=337
+encfyyz 	放一	c=0 d=0.0955997 t=337
+encgby 	给一	c=0 d=0.0937067 t=337
+encgbyk 	给一颗	c=0 d=0.0941765 t=337
+encgbyz 	给一	c=0 d=0.0937067 t=337
+encgdh 	个电话	c=0 d=0.0951229 t=337
+encgdn 	个电脑	c=0 d=0.1 t=337
+encgdy 	个电影	c=0 d=0.0677057 t=337
+encgdyd 	个电影都	c=0 d=0.0680451 t=337
+encgdz 	个肚子	c=0 d=0.1 t=337
+encgdza 	个肚子啊	c=0 d=0.1 t=337
+encgfdh 	个电话	c=0 d=0.0951229 t=337
+encgfdn 	个电脑	c=0 d=0.1 t=337
+encgfdy 	个电影	c=0 d=0.0677057 t=337
+encgfdz 	个肚子	c=0 d=0.1 t=337
+encgfha 	个好啊	c=0 d=0.1 t=337
+encgfhc 	个好	c=0 d=0.0995012 t=337
+encgfr 	个人	c=0 d=0.1 t=337
+encgfrf 	个人	c=0 d=0.1 t=337
+encgfrn 	个人呢	c=0 d=0.1 t=337
+encgfxd 	个小	c=0 d=0.0755784 t=337
+encgfxq 	个心情	c=0 d=0.0818731 t=337
+encggv 	果这	c=0 d=0.0831104 t=337
+encggvh 	果这很	c=0 d=0.083527 t=337
+encggvu 	果这很	c=0 d=0.083527 t=337
+encggxb 	果小兵	c=0 d=0.0843665 t=337
+encggxd 	果小	c=0 d=0.0839457 t=337
+encggzh 	果这很	c=0 d=0.083527 t=337
+encggzu 	果这很	c=0 d=0.083527 t=337
+encggzy 	果这	c=0 d=0.0831104 t=337
+encgha 	个好啊	c=0 d=0.1 t=337
+encghc 	个好	c=0 d=0.0995012 t=337
+encgjy 	过一	c=0 d=0.0913931 t=337
+encgjyl 	过一了	c=0 d=0.0918512 t=337
+encgjyz 	过一	c=0 d=0.0913931 t=337
+encgjza 	工作啊	c=0 d=0.0786628 t=337
+encgnsp 	敢说	c=0 d=0.0970446 t=337
+encgnyp 	敢说	c=0 d=0.0970446 t=337
+encgr 	个人	c=0 d=0.1 t=337
+encgrf 	个人	c=0 d=0.1 t=337
+encgrn 	个人呢	c=0 d=0.1 t=337
+encgxd 	个小	c=0 d=0.0755784 t=337
+encgxq 	个心情	c=0 d=0.0818731 t=337
+encgxqz 	个心情作	c=0 d=0.0822835 t=337
+encgxxn 	个小仙女	c=0 d=0.0759572 t=337
+encgxzd 	柜子的	c=0 d=0.0831104 t=337
+encgykx 	给一颗心	c=0 d=0.0946485 t=337
+encgylb 	过一了百	c=0 d=0.0923116 t=337
+encgzmt 	歌么	c=0 d=0.0970446 t=337
+enchbd 	花的	c=0 d=0.097531 t=337
+enchbdt 	花的太	c=0 d=0.0980199 t=337
+enchbdw 	花的	c=0 d=0.097531 t=337
+enchbhh 	缓缓行	c=0 d=0.0995012 t=337
+enchbhx 	缓缓行	c=0 d=0.0995012 t=337
+enchbsx 	后不生效	c=0 d=0.088692 t=337
+enchcal 	好啊	c=0 d=0.1 t=337
+enchcbl 	好吧	c=0 d=0.0759572 t=337
+enchcka 	好看啊	c=0 d=0.0798516 t=337
+enchcub 	好吧	c=0 d=0.0759572 t=337
+enchdtd 	花的太多	c=0 d=0.0985112 t=337
+encheb 	后不	c=0 d=0.0882497 t=337
+enchebk 	后不	c=0 d=0.0882497 t=337
+enchebn 	很别扭	c=0 d=0.0869358 t=337
+enchekn 	很困难	c=0 d=0.0839457 t=337
+encheku 	很困难	c=0 d=0.0839457 t=337
+enchemt 	行么	c=0 d=0.1 t=337
+enchenv 	很难	c=0 d=0.1 t=337
+enchenz 	很难自	c=0 d=0.1 t=337
+encheur 	很难	c=0 d=0.1 t=337
+encheuz 	很难自	c=0 d=0.1 t=337
+enchfal 	会啊	c=0 d=0.0637628 t=337
+enchggg 	黑果	c=0 d=0.083527 t=337
+enchggx 	黑果小	c=0 d=0.0839457 t=337
+enchgjl 	回家了	c=0 d=0.1 t=337
+enchgxb 	黑果小兵	c=0 d=0.0843665 t=337
+enchgxq 	换个心情	c=0 d=0.0818731 t=337
+enchgza 	换工作啊	c=0 d=0.0786628 t=337
+enchhhm 	缓缓行么	c=0 d=0.1 t=337
+enchhxm 	缓缓行么	c=0 d=0.1 t=337
+enchjlm 	回家了么	c=0 d=0.1 t=337
+enchkb 	还不	c=0 d=0.1 t=337
+enchkbk 	还不	c=0 d=0.1 t=337
+enchkmc 	还没	c=0 d=0.1 t=337
+enchkmg 	还没个	c=0 d=0.1 t=337
+enchks 	还是	c=0 d=0.1 t=337
+enchksb 	还是不	c=0 d=0.0737123 t=337
+enchksh 	还是和	c=0 d=0.1 t=337
+enchksh 	还是还	c=0 d=0.0918512 t=337
+enchkss 	还是	c=0 d=0.1 t=337
+enchksv 	还是这	c=0 d=0.0985112 t=337
+enchksz 	还是这	c=0 d=0.0985112 t=337
+enchkxd 	还想大	c=0 d=0.1 t=337
+enchkxr 	还想让	c=0 d=0.1 t=337
+enchkxx 	还想	c=0 d=0.1 t=337
+enchkz 	还在	c=0 d=0.0960789 t=337
+enchkzk 	还在	c=0 d=0.0960789 t=337
+enchkzx 	还在想	c=0 d=0.0965605 t=337
+enchn 	和你	c=0 d=0.1 t=337
+enchnf 	和你	c=0 d=0.1 t=337
+encho 	和我	c=0 d=0.088692 t=337
+enchqn 	和你	c=0 d=0.1 t=337
+enchqnf 	和你	c=0 d=0.1 t=337
+enchqo 	和我	c=0 d=0.088692 t=337
+enchqwq 	和我	c=0 d=0.088692 t=337
+enchshn 	还是和你	c=0 d=0.1 t=337
+enchshz 	还是还在	c=0 d=0.0923116 t=337
+enchsvg 	还是这个	c=0 d=0.099005 t=337
+enchsvl 	还是这里	c=0 d=0.0740818 t=337
+enchszg 	还是这个	c=0 d=0.099005 t=337
+enchszl 	还是这里	c=0 d=0.0740818 t=337
+enchug 	换个	c=0 d=0.0814647 t=337
+enchugf 	换个	c=0 d=0.0814647 t=337
+enchugz 	换工作	c=0 d=0.0782705 t=337
+enchwq 	和我	c=0 d=0.088692 t=337
+enchxdj 	还想大就	c=0 d=0.1 t=337
+enchxrt 	还想让他	c=0 d=0.1 t=337
+encjbha 	教不会啊	c=0 d=0.0637628 t=337
+encjbka 	教不会啊	c=0 d=0.0637628 t=337
+encjbl 	就别	c=0 d=0.0860708 t=337
+encjbsl 	就别说了	c=0 d=0.0865022 t=337
+encjbu 	就报	c=0 d=0.0774916 t=337
+encjbua 	教不会啊	c=0 d=0.0637628 t=337
+encjby 	给一	c=0 d=0.0937067 t=337
+encjbyk 	给一颗	c=0 d=0.0941765 t=337
+encjbyl 	就别说了	c=0 d=0.0865022 t=337
+encjbyz 	给一	c=0 d=0.0937067 t=337
+encjjb 	教不	c=0 d=0.0631284 t=337
+encjjbh 	教不会	c=0 d=0.0634448 t=337
+encjjbk 	教不	c=0 d=0.0631284 t=337
+encjjbk 	教不会	c=0 d=0.0634448 t=337
+encjjbu 	教不会	c=0 d=0.0634448 t=337
+encjnmt 	剧么	c=0 d=0.0818731 t=337
+encjs 	就是	c=0 d=0.1 t=337
+encjsex 	就是二线	c=0 d=0.1 t=337
+encjsl 	就算了	c=0 d=0.0794534 t=337
+encjsq 	就算	c=0 d=0.0790571 t=337
+encjss 	就是	c=0 d=0.1 t=337
+encjtjd 	解决的	c=0 d=0.0755784 t=337
+encjty 	解一	c=0 d=0.0802519 t=337
+encjtyx 	解一下	c=0 d=0.0806541 t=337
+encjtyz 	解一	c=0 d=0.0802519 t=337
+encjxa 	就小啊	c=0 d=0.1 t=337
+encjxca 	检查啊	c=0 d=0.0726149 t=337
+encjxcm 	机长么	c=0 d=0.071177 t=337
+encjxd 	就小	c=0 d=0.1 t=337
+encjxk 	就雄	c=0 d=0.1 t=337
+encjxza 	检查啊	c=0 d=0.0726149 t=337
+encjxzd 	柜子的	c=0 d=0.0831104 t=337
+encjxzm 	机长么	c=0 d=0.071177 t=337
+encjybl 	就别	c=0 d=0.0860708 t=337
+encjybu 	就报	c=0 d=0.0774916 t=337
+encjykx 	给一颗心	c=0 d=0.0946485 t=337
+encjys 	就是	c=0 d=0.1 t=337
+encjysl 	就算了	c=0 d=0.0794534 t=337
+encjysq 	就算	c=0 d=0.0790571 t=337
+encjyss 	就是	c=0 d=0.1 t=337
+encjyxa 	就小啊	c=0 d=0.1 t=337
+encjyxd 	就小	c=0 d=0.1 t=337
+encjyxk 	就雄	c=0 d=0.1 t=337
+encjyxn 	解一下呢	c=0 d=0.0810584 t=337
+enckal 	卡了	c=0 d=0.1 t=337
+enckalh 	卡了很	c=0 d=0.1 t=337
+enckalm 	卡了	c=0 d=0.1 t=337
+enckalu 	卡了很	c=0 d=0.1 t=337
+enckdcz 	开的单子	c=0 d=0.0748264 t=337
+enckddz 	开的单子	c=0 d=0.0748264 t=337
+enckdng 	看的那个	c=0 d=0.067368 t=337
+enckdsz 	开的单子	c=0 d=0.0748264 t=337
+enckfal 	会啊	c=0 d=0.0637628 t=337
+enckgxp 	颗心	c=0 d=0.0965605 t=337
+enckhd 	开的	c=0 d=0.0744532 t=337
+enckhdw 	开的	c=0 d=0.0744532 t=337
+enckhqh 	开启后	c=0 d=0.0878095 t=337
+encklhn 	卡了很难	c=0 d=0.1 t=337
+encklhu 	卡了很难	c=0 d=0.1 t=337
+encklun 	卡了很难	c=0 d=0.1 t=337
+enckluu 	卡了很难	c=0 d=0.1 t=337
+enckoxj 	快下	c=0 d=0.0687289 t=337
+enckoxy 	快下映	c=0 d=0.0690734 t=337
+enckqd 	看的	c=0 d=0.0666977 t=337
+enckqdn 	看的那	c=0 d=0.067032 t=337
+enckqdw 	看的	c=0 d=0.0666977 t=337
+enckqhb 	开启后不	c=0 d=0.0882497 t=337
+enckqlx 	看起来像	c=0 d=0.0737123 t=337
+enckqql 	看起来	c=0 d=0.0733447 t=337
+enckqzh 	看着很	c=0 d=0.0865022 t=337
+enckqzi 	看着	c=0 d=0.0860708 t=337
+enckqzu 	看着很	c=0 d=0.0865022 t=337
+enckxyl 	快下映了	c=0 d=0.0694197 t=337
+enckyym 	刻源码	c=0 d=0.099005 t=337
+enclbk 	了百	c=0 d=0.0923116 t=337
+enclbl 	了百了	c=0 d=0.0927743 t=337
+enclcbl 	流吧	c=0 d=0.1 t=337
+enclcub 	流吧	c=0 d=0.1 t=337
+encldyg 	里的一个	c=0 d=0.0752014 t=337
+enclgd 	里的	c=0 d=0.0744532 t=337
+enclgdw 	里的	c=0 d=0.0744532 t=337
+enclgdy 	里的一	c=0 d=0.0748264 t=337
+enclhe 	了很	c=0 d=0.1 t=337
+enclhn 	了很难	c=0 d=0.1 t=337
+enclhnz 	了很难自	c=0 d=0.1 t=337
+enclhu 	了很难	c=0 d=0.1 t=337
+enclhuz 	了很难自	c=0 d=0.1 t=337
+encljt 	了解	c=0 d=0.0798516 t=337
+encljy 	了解一	c=0 d=0.0802519 t=337
+encljyx 	了解一下	c=0 d=0.0806541 t=337
+enclmbk 	了百	c=0 d=0.0923116 t=337
+enclmbl 	了百了	c=0 d=0.0927743 t=337
+enclmhe 	了很	c=0 d=0.1 t=337
+enclmhn 	了很难	c=0 d=0.1 t=337
+enclmhu 	了很难	c=0 d=0.1 t=337
+enclmjt 	了解	c=0 d=0.0798516 t=337
+enclmjy 	了解一	c=0 d=0.0802519 t=337
+enclmmt 	了么	c=0 d=0.0980199 t=337
+enclmt 	了么	c=0 d=0.0980199 t=337
+enclmue 	了很	c=0 d=0.1 t=337
+enclmun 	了很难	c=0 d=0.1 t=337
+enclmuu 	了很难	c=0 d=0.1 t=337
+enclmxt 	了解	c=0 d=0.0798516 t=337
+enclmxy 	了解一	c=0 d=0.0802519 t=337
+enclue 	了很	c=0 d=0.1 t=337
+enclun 	了很难	c=0 d=0.1 t=337
+enclunz 	了很难自	c=0 d=0.1 t=337
+encluu 	了很难	c=0 d=0.1 t=337
+encluuz 	了很难自	c=0 d=0.1 t=337
+enclxt 	了解	c=0 d=0.0798516 t=337
+enclxy 	了解一	c=0 d=0.0802519 t=337
+enclxyx 	了解一下	c=0 d=0.0806541 t=337
+encmbfp 	买房	c=0 d=0.0677057 t=337
+encmbpp 	买房	c=0 d=0.0677057 t=337
+encmbsy 	买上瘾	c=0 d=0.0946485 t=337
+encmby 	买一	c=0 d=0.1 t=337
+encmbyz 	买一	c=0 d=0.1 t=337
+encmcdj 	每次点击	c=0 d=0.0895834 t=337
+encmcdl 	没道理	c=0 d=0.0913931 t=337
+encmcg 	没个	c=0 d=0.1 t=337
+encmcgf 	没个	c=0 d=0.1 t=337
+encmchu 	没换	c=0 d=0.0778801 t=337
+encmcl 	们吃	c=0 d=0.1 t=337
+encmcq 	们出去	c=0 d=0.0932394 t=337
+encmcql 	们出去了	c=0 d=0.0937067 t=337
+encmcs 	们吃啥	c=0 d=0.1 t=337
+encmdla 	没道理啊	c=0 d=0.0918512 t=337
+encmfcl 	们吃	c=0 d=0.1 t=337
+encmfcq 	们出去	c=0 d=0.0932394 t=337
+encmfcs 	们吃啥	c=0 d=0.1 t=337
+encmfxk 	们想看	c=0 d=0.066365 t=337
+encmfxx 	们想	c=0 d=0.066034 t=337
+encmgdz 	没个肚子	c=0 d=0.1 t=337
+encmgmf 	美国买房	c=0 d=0.0677057 t=337
+encmgmp 	美国买房	c=0 d=0.0677057 t=337
+encmhgz 	没换工作	c=0 d=0.0782705 t=337
+encmigm 	美国买	c=0 d=0.067368 t=337
+encmkea 	面儿啊	c=0 d=0.1 t=337
+encmket 	面儿	c=0 d=0.1 t=337
+encmsyl 	买上瘾了	c=0 d=0.0951229 t=337
+encmtaj 	么安静	c=0 d=0.0744532 t=337
+encmxk 	们想看	c=0 d=0.066365 t=337
+encmxkd 	们想看的	c=0 d=0.0666977 t=337
+encmxx 	们想	c=0 d=0.066034 t=337
+encmysd 	没有收到	c=0 d=0.1 t=48
+encnbjb 	能报就报	c=0 d=0.0774916 t=337
+encnbns 	能不能说	c=0 d=0.0774916 t=337
+encnbny 	能不能说	c=0 d=0.0774916 t=337
+encnfh 	你和	c=0 d=0.0882497 t=337
+encnfhk 	你还	c=0 d=0.0955997 t=337
+encnfho 	你和我	c=0 d=0.088692 t=337
+encnfhq 	你和	c=0 d=0.0882497 t=337
+encnfhw 	你和我	c=0 d=0.088692 t=337
+encnfhx 	你还想	c=0 d=0.1 t=337
+encnfhz 	你还在	c=0 d=0.0960789 t=337
+encnfnb 	你能不	c=0 d=0.0767206 t=337
+encnfnv 	你能	c=0 d=0.0763379 t=337
+encnfp 	你平	c=0 d=0.0941765 t=337
+encnfpl 	你平	c=0 d=0.0941765 t=337
+encnfps 	你平时	c=0 d=0.0946485 t=337
+encnfs 	你是	c=0 d=0.099005 t=337
+encnfsb 	你上班	c=0 d=0.0860708 t=337
+encnfsm 	你什么	c=0 d=0.099005 t=337
+encnfsm 	你是买	c=0 d=0.0941765 t=337
+encnfsn 	你是哪	c=0 d=0.0995012 t=337
+encnfss 	你是	c=0 d=0.099005 t=337
+encnfss 	你是谁	c=0 d=0.0752014 t=337
+encnfss 	你身上	c=0 d=0.1 t=337
+encnftb 	你太笨	c=0 d=0.0647265 t=337
+encnftk 	你太	c=0 d=0.0644036 t=337
+encnfws 	你晚上	c=0 d=0.1 t=337
+encnfxz 	你现在	c=0 d=0.0759572 t=337
+encnfyd 	你养大	c=0 d=0.1 t=337
+encngdn 	哪个电脑	c=0 d=0.1 t=337
+encngdy 	那个电影	c=0 d=0.0677057 t=337
+encnh 	你和	c=0 d=0.0882497 t=337
+encnhk 	你还	c=0 d=0.0955997 t=337
+encnho 	你和我	c=0 d=0.088692 t=337
+encnhq 	你和	c=0 d=0.0882497 t=337
+encnhw 	你和我	c=0 d=0.088692 t=337
+encnhx 	你还想	c=0 d=0.1 t=337
+encnhxr 	你还想让	c=0 d=0.1 t=337
+encnhz 	你还在	c=0 d=0.0960789 t=337
+encnhzx 	你还在想	c=0 d=0.0965605 t=337
+encnjjd 	能解决的	c=0 d=0.0755784 t=337
+encnjsl 	能就算了	c=0 d=0.0794534 t=337
+encnlg 	哪个	c=0 d=0.1 t=337
+encnlgf 	哪个	c=0 d=0.1 t=337
+encnly 	哪一	c=0 d=0.1 t=337
+encnlyg 	哪一个	c=0 d=0.1 t=337
+encnlyz 	哪一	c=0 d=0.1 t=337
+encnnb 	你能不	c=0 d=0.0767206 t=337
+encnnbn 	你能不能	c=0 d=0.0771052 t=337
+encnng 	那个	c=0 d=0.067368 t=337
+encnngf 	那个	c=0 d=0.067368 t=337
+encnnhc 	那好	c=0 d=0.1 t=337
+encnnmk 	那么开	c=0 d=0.0822835 t=337
+encnnua 	那也	c=0 d=0.1 t=337
+encnnub 	那也不	c=0 d=0.1 t=337
+encnnv 	你能	c=0 d=0.0763379 t=337
+encnnyb 	那也不	c=0 d=0.1 t=337
+encnnym 	那也	c=0 d=0.1 t=337
+encnp 	你平	c=0 d=0.0941765 t=337
+encnpl 	你平	c=0 d=0.0941765 t=337
+encnps 	你平时	c=0 d=0.0946485 t=337
+encnpsy 	你平时用	c=0 d=0.0951229 t=337
+encns 	你是	c=0 d=0.099005 t=337
+encnsb 	你上班	c=0 d=0.0860708 t=337
+encnsbq 	你上班去	c=0 d=0.0865022 t=337
+encnsm 	你什么	c=0 d=0.099005 t=337
+encnsm 	你是买	c=0 d=0.0941765 t=337
+encnsn 	你是哪	c=0 d=0.0995012 t=337
+encnsny 	你是哪一	c=0 d=0.1 t=337
+encnss 	你是	c=0 d=0.099005 t=337
+encnss 	你是谁	c=0 d=0.0752014 t=337
+encnss 	你身上	c=0 d=0.1 t=337
+encnssa 	你是谁啊	c=0 d=0.0755784 t=337
+encnsyx 	能说一下	c=0 d=0.0782705 t=337
+encntb 	你太笨	c=0 d=0.0647265 t=337
+encntbl 	你太笨了	c=0 d=0.0650509 t=337
+encntk 	你太	c=0 d=0.0644036 t=337
+encnubc 	那也不吃	c=0 d=0.1 t=337
+encnvb 	能不	c=0 d=0.0767206 t=337
+encnvbj 	能报就	c=0 d=0.0771052 t=337
+encnvbk 	能不	c=0 d=0.0767206 t=337
+encnvbn 	能不能	c=0 d=0.0771052 t=337
+encnvbu 	能报	c=0 d=0.0767206 t=337
+encnvj 	能就	c=0 d=0.0786628 t=337
+encnvjj 	能解决	c=0 d=0.0752014 t=337
+encnvjs 	能就算	c=0 d=0.0790571 t=337
+encnvjy 	能就	c=0 d=0.0786628 t=337
+encnvmb 	能买	c=0 d=0.1 t=337
+encnvmy 	能买一	c=0 d=0.1 t=337
+encnvsp 	能说	c=0 d=0.0774916 t=337
+encnvsy 	能说一	c=0 d=0.0778801 t=337
+encnvw 	能为	c=0 d=0.0609571 t=337
+encnvwi 	能为	c=0 d=0.0609571 t=337
+encnvwk 	能为空	c=0 d=0.0612626 t=337
+encnvxj 	能解决	c=0 d=0.0752014 t=337
+encnvyp 	能说	c=0 d=0.0774916 t=337
+encnvyy 	能说一	c=0 d=0.0778801 t=337
+encnvzw 	难自	c=0 d=0.1 t=337
+encnws 	你晚上	c=0 d=0.1 t=337
+encnwsc 	你晚上吃	c=0 d=0.1 t=337
+encnxjd 	能解决的	c=0 d=0.0755784 t=337
+encnxz 	你现在	c=0 d=0.0759572 t=337
+encnybc 	那也不吃	c=0 d=0.1 t=337
+encnyd 	你养大	c=0 d=0.1 t=337
+encnydd 	你养大的	c=0 d=0.1 t=337
+encnygr 	哪一个人	c=0 d=0.1 t=337
+encnyyx 	能说一下	c=0 d=0.0782705 t=337
+encnzhf 	难自恢复	c=0 d=0.1 t=337
+encoaz 	我按照	c=0 d=0.0860708 t=337
+encob 	我不	c=0 d=0.1 t=337
+encobk 	我不	c=0 d=0.1 t=337
+encobx 	我不想	c=0 d=0.1 t=337
+encobxx 	我不想想	c=0 d=0.1 t=337
+encobz 	我不知	c=0 d=0.1 t=337
+encoci 	我曾	c=0 d=0.0900325 t=337
+encocx 	我曾想	c=0 d=0.0904837 t=337
+encocxg 	我曾想过	c=0 d=0.0909373 t=337
+encod 	我的	c=0 d=0.0923116 t=337
+encoddz 	我的肚子	c=0 d=0.1 t=337
+encodw 	我的	c=0 d=0.0923116 t=337
+encohk 	我还	c=0 d=0.0995012 t=337
+encohs 	我还是	c=0 d=0.1 t=337
+encohsh 	我还是和	c=0 d=0.1 t=337
+encojj 	我救	c=0 d=0.0625002 t=337
+encol 	我了	c=0 d=0.0794534 t=337
+encolj 	我了解	c=0 d=0.0798516 t=337
+encoljy 	我了解一	c=0 d=0.0802519 t=337
+encolm 	我了	c=0 d=0.0794534 t=337
+encolx 	我了解	c=0 d=0.0798516 t=337
+encolxy 	我了解一	c=0 d=0.0802519 t=337
+encom 	我们	c=0 d=0.0657047 t=337
+encomf 	我们	c=0 d=0.0657047 t=337
+encomx 	我们想	c=0 d=0.066034 t=337
+encomxk 	我们想看	c=0 d=0.066365 t=337
+encomy 	我没有	c=0 d=0.1 t=47
+encosj 	我升级	c=0 d=0.083527 t=337
+encoxz 	我现在	c=0 d=0.0970446 t=337
+encoxzc 	我现在才	c=0 d=0.097531 t=337
+encoxzh 	我现在还	c=0 d=0.0729789 t=337
+encoyk 	我友	c=0 d=0.1 t=337
+encozi 	我曾	c=0 d=0.0900325 t=337
+encozx 	我曾想	c=0 d=0.0904837 t=337
+encozxg 	我曾想过	c=0 d=0.0909373 t=337
+encphsz 	偏好设置	c=0 d=0.0680451 t=337
+encplss 	平时	c=0 d=0.0946485 t=337
+encplsy 	平时用	c=0 d=0.0951229 t=337
+encpltb 	平台版	c=0 d=0.0951229 t=337
+encpltv 	平台	c=0 d=0.0946485 t=337
+encpss 	平时	c=0 d=0.0946485 t=337
+encpsy 	平时用	c=0 d=0.0951229 t=337
+encptb 	平台版	c=0 d=0.0951229 t=337
+encptv 	平台	c=0 d=0.0946485 t=337
+encqal 	卡了	c=0 d=0.1 t=337
+encqalh 	卡了很	c=0 d=0.1 t=337
+encqalm 	卡了	c=0 d=0.1 t=337
+encqalu 	卡了很	c=0 d=0.1 t=337
+encqlx 	起来像	c=0 d=0.0737123 t=337
+encqqbk 	千百	c=0 d=0.1 t=337
+encqvl 	去了	c=0 d=0.0869358 t=337
+encqvlm 	去了	c=0 d=0.0869358 t=337
+encqvlm 	去了么	c=0 d=0.0873716 t=337
+encqvlx 	起来像	c=0 d=0.0737123 t=337
+encqywx 	企业微信	c=0 d=0.0690734 t=337
+encrcgg 	如国	c=0 d=0.0818731 t=337
+encrfnl 	人呢	c=0 d=0.1 t=337
+encrnl 	人呢	c=0 d=0.1 t=337
+encrolj 	让我了解	c=0 d=0.0798516 t=337
+encrolx 	让我了解	c=0 d=0.0798516 t=337
+encrpo 	让我	c=0 d=0.0790571 t=337
+encrpol 	让我了	c=0 d=0.0794534 t=337
+encrpt 	让他	c=0 d=0.0923116 t=337
+encrptf 	让他	c=0 d=0.0923116 t=337
+encrptm 	让他们	c=0 d=0.0927743 t=337
+encrpwl 	让我了	c=0 d=0.0794534 t=337
+encrpwq 	让我	c=0 d=0.0790571 t=337
+encrthn 	然后呢	c=0 d=0.0694197 t=337
+encrwlj 	让我了解	c=0 d=0.0798516 t=337
+encrwlx 	让我了解	c=0 d=0.0798516 t=337
+encsabl 	上班了	c=0 d=0.0767206 t=337
+encsabq 	上班去	c=0 d=0.0865022 t=337
+encsayl 	上瘾了	c=0 d=0.0951229 t=337
+encsb 	是不	c=0 d=0.0737123 t=337
+encsbk 	是不	c=0 d=0.0737123 t=337
+encsblm 	上班了么	c=0 d=0.0771052 t=337
+encsbql 	上班去了	c=0 d=0.0869358 t=337
+encsbzd 	是不知道	c=0 d=0.0740818 t=337
+encsdlb 	随大流吧	c=0 d=0.1 t=337
+encsdlu 	随大流吧	c=0 d=0.1 t=337
+encsdm 	是到	c=0 d=0.0852144 t=337
+encsex 	是二线	c=0 d=0.1 t=337
+encsfml 	什么了	c=0 d=0.097531 t=337
+encsh 	是和	c=0 d=0.1 t=337
+encshhj 	时候回家	c=0 d=0.1 t=337
+encshk 	是还	c=0 d=0.0918512 t=337
+encshmg 	谁还没个	c=0 d=0.1 t=337
+encshn 	是和你	c=0 d=0.1 t=337
+encshq 	是和	c=0 d=0.1 t=337
+encshxq 	三选	c=0 d=0.0960789 t=337
+encshxy 	三选一	c=0 d=0.0965605 t=337
+encshz 	是还在	c=0 d=0.0923116 t=337
+encsiza 	单子啊	c=0 d=0.0752014 t=337
+encsjtg 	手机听歌	c=0 d=0.0965605 t=337
+encskb 	爽不	c=0 d=0.0995012 t=337
+encskbk 	爽不	c=0 d=0.0995012 t=337
+encskbs 	爽不爽	c=0 d=0.1 t=337
+encskn 	死你	c=0 d=0.1 t=337
+encsknf 	死你	c=0 d=0.1 t=337
+encslal 	啥啊	c=0 d=0.0856415 t=337
+encsljc 	啥稽查	c=0 d=0.0715338 t=337
+encsljz 	啥稽查	c=0 d=0.0715338 t=337
+encslpc 	啥稽查	c=0 d=0.0715338 t=337
+encslpz 	啥稽查	c=0 d=0.0715338 t=337
+encslqc 	啥稽查	c=0 d=0.0715338 t=337
+encslqz 	啥稽查	c=0 d=0.0715338 t=337
+encslxm 	啥项目	c=0 d=0.0697676 t=337
+encslyl 	啥呀	c=0 d=0.1 t=337
+encsmb 	是买	c=0 d=0.0941765 t=337
+encsmdk 	随大	c=0 d=0.1 t=337
+encsmdl 	随大流	c=0 d=0.1 t=337
+encsmhe 	随航	c=0 d=0.1 t=337
+encsmlm 	什么了么	c=0 d=0.0980199 t=337
+encsmsh 	什么时候	c=0 d=0.0995012 t=337
+encsmsy 	是买上瘾	c=0 d=0.0946485 t=337
+encsmt 	是么	c=0 d=0.0852144 t=337
+encsnl 	是哪	c=0 d=0.0995012 t=337
+encsny 	是哪一	c=0 d=0.1 t=337
+encsnyg 	是哪一个	c=0 d=0.1 t=337
+encspal 	谁啊	c=0 d=0.0755784 t=337
+encsphk 	谁还	c=0 d=0.1 t=337
+encsphm 	谁还没	c=0 d=0.1 t=337
+encsptb 	双平台版	c=0 d=0.0951229 t=337
+encspy 	说一	c=0 d=0.0900325 t=337
+encspyx 	说一下	c=0 d=0.0904837 t=337
+encspyz 	说一	c=0 d=0.0900325 t=337
+encsql 	算了	c=0 d=0.0794534 t=337
+encsqlm 	算了	c=0 d=0.0794534 t=337
+encsrfh 	输入法还	c=0 d=0.097531 t=337
+encssa 	是谁啊	c=0 d=0.0755784 t=337
+encssb 	是不	c=0 d=0.0737123 t=337
+encssbk 	是不	c=0 d=0.0737123 t=337
+encssdm 	是到	c=0 d=0.0852144 t=337
+encssex 	是二线	c=0 d=0.1 t=337
+encssh 	是和	c=0 d=0.1 t=337
+encsshk 	是还	c=0 d=0.0918512 t=337
+encsshn 	是和你	c=0 d=0.1 t=337
+encsshq 	是和	c=0 d=0.1 t=337
+encsshz 	是还在	c=0 d=0.0923116 t=337
+encssmb 	是买	c=0 d=0.0941765 t=337
+encssmt 	是么	c=0 d=0.0852144 t=337
+encssnl 	是哪	c=0 d=0.0995012 t=337
+encssny 	是哪一	c=0 d=0.1 t=337
+encssp 	是谁	c=0 d=0.0752014 t=337
+encsssa 	是谁啊	c=0 d=0.0755784 t=337
+encsssp 	是谁	c=0 d=0.0752014 t=337
+encssv 	是这	c=0 d=0.0985112 t=337
+encssvg 	是这个	c=0 d=0.099005 t=337
+encssvl 	是这里	c=0 d=0.0740818 t=337
+encssxa 	是些	c=0 d=0.070822 t=337
+encssxs 	是些啥	c=0 d=0.071177 t=337
+encssyr 	时依然	c=0 d=0.0904837 t=337
+encssyt 	时用	c=0 d=0.0951229 t=337
+encsszg 	是这个	c=0 d=0.099005 t=337
+encsszl 	是这里	c=0 d=0.0740818 t=337
+encsszy 	是这	c=0 d=0.0985112 t=337
+encsujt 	手机听	c=0 d=0.0960789 t=337
+encsunn 	撒尿呢	c=0 d=0.0831104 t=337
+encsusn 	撒尿呢	c=0 d=0.0831104 t=337
+encsv 	是这	c=0 d=0.0985112 t=337
+encsvg 	是这个	c=0 d=0.099005 t=337
+encsvgh 	是这个好	c=0 d=0.0995012 t=337
+encsvl 	是这里	c=0 d=0.0740818 t=337
+encsvld 	是这里的	c=0 d=0.0744532 t=337
+encsvp 	双平	c=0 d=0.0941765 t=337
+encsvpl 	双平	c=0 d=0.0941765 t=337
+encsvpt 	双平台	c=0 d=0.0946485 t=337
+encsxa 	是些	c=0 d=0.070822 t=337
+encsxs 	是些啥	c=0 d=0.071177 t=337
+encsylm 	上瘾了么	c=0 d=0.0955997 t=337
+encsysj 	时用手机	c=0 d=0.0955997 t=337
+encsyxb 	说一下吧	c=0 d=0.0909373 t=337
+encsyxu 	说一下吧	c=0 d=0.0909373 t=337
+encszg 	是这个	c=0 d=0.099005 t=337
+encszgh 	是这个好	c=0 d=0.0995012 t=337
+encszl 	是这里	c=0 d=0.0740818 t=337
+encszld 	是这里的	c=0 d=0.0744532 t=337
+encszy 	是这	c=0 d=0.0985112 t=337
+enctdcn 	腿叉那	c=0 d=0.0810584 t=337
+enctdcv 	腿叉	c=0 d=0.0806541 t=337
+enctfm 	他们	c=0 d=0.0927743 t=337
+enctfmc 	他们吃	c=0 d=0.1 t=337
+enctfmf 	他们	c=0 d=0.0927743 t=337
+enctkbl 	太笨了	c=0 d=0.0650509 t=337
+enctkbq 	太笨	c=0 d=0.0647265 t=337
+enctkdt 	太多	c=0 d=0.0985112 t=337
+enctlgm 	听歌么	c=0 d=0.0970446 t=337
+enctlgz 	听歌	c=0 d=0.0965605 t=337
+enctm 	他们	c=0 d=0.0927743 t=337
+enctmc 	他们吃	c=0 d=0.1 t=337
+enctmcq 	他们出去	c=0 d=0.0932394 t=337
+enctmcs 	他们吃啥	c=0 d=0.1 t=337
+enctmf 	他们	c=0 d=0.0927743 t=337
+enctscz 	提示操作	c=0 d=0.0869358 t=337
+enctuso 	提示我	c=0 d=0.0852144 t=337
+enctusw 	提示我	c=0 d=0.0852144 t=337
+enctvbw 	台版	c=0 d=0.0951229 t=337
+encuab 	也不	c=0 d=0.1 t=337
+encuabc 	也不吃	c=0 d=0.1 t=337
+encuabk 	也不	c=0 d=0.1 t=337
+encubcc 	也不吃草	c=0 d=0.1 t=337
+encubyl 	又不慵懒	c=0 d=0.0932394 t=337
+encucqb 	重启吧	c=0 d=0.1 t=337
+encucqu 	重启吧	c=0 d=0.1 t=337
+encudeh 	第二	c=0 d=0.0618783 t=337
+encudel 	第二类	c=0 d=0.0621885 t=337
+encuebn 	很别扭	c=0 d=0.0869358 t=337
+encuekn 	很困难	c=0 d=0.0839457 t=337
+encueku 	很困难	c=0 d=0.0839457 t=337
+encuenv 	很难	c=0 d=0.1 t=337
+encuenz 	很难自	c=0 d=0.1 t=337
+encueur 	很难	c=0 d=0.1 t=337
+encueuz 	很难自	c=0 d=0.1 t=337
+encufal 	会啊	c=0 d=0.0637628 t=337
+encurzw 	难自	c=0 d=0.1 t=337
+encuub 	又不	c=0 d=0.0927743 t=337
+encuubk 	又不	c=0 d=0.0927743 t=337
+encuzhf 	难自恢复	c=0 d=0.1 t=337
+encvg 	这个	c=0 d=0.099005 t=337
+encvgf 	这个	c=0 d=0.099005 t=337
+encvgh 	这个好	c=0 d=0.0995012 t=337
+encvgha 	这个好啊	c=0 d=0.1 t=337
+encvhe 	这很	c=0 d=0.083527 t=337
+encvhkn 	这很困难	c=0 d=0.0839457 t=337
+encvhku 	这很困难	c=0 d=0.0839457 t=337
+encvld 	这里的	c=0 d=0.0744532 t=337
+encvldy 	这里的一	c=0 d=0.0748264 t=337
+encvlg 	这里	c=0 d=0.0740818 t=337
+encvmaj 	这么安静	c=0 d=0.0744532 t=337
+encvmt 	这么	c=0 d=0.0740818 t=337
+encvue 	这很	c=0 d=0.083527 t=337
+encvukn 	这很困难	c=0 d=0.0839457 t=337
+encvuku 	这很困难	c=0 d=0.0839457 t=337
+encvy 	这一	c=0 d=0.1 t=337
+encvyz 	这一	c=0 d=0.1 t=337
+encwbxx 	我不想想	c=0 d=0.1 t=337
+encwcxg 	我曾想过	c=0 d=0.0909373 t=337
+encwddz 	我的肚子	c=0 d=0.1 t=337
+encwhsh 	我还是和	c=0 d=0.1 t=337
+encwiko 	为空	c=0 d=0.0612626 t=337
+encwisb 	为啥不	c=0 d=0.0718924 t=337
+encwisc 	为啥吃	c=0 d=0.1 t=337
+encwism 	为什么	c=0 d=0.0628135 t=337
+encwko 	为空	c=0 d=0.0612626 t=337
+encwljy 	我了解一	c=0 d=0.0802519 t=337
+encwlxy 	我了解一	c=0 d=0.0802519 t=337
+encwmxk 	我们想看	c=0 d=0.066365 t=337
+encwqaz 	我按照	c=0 d=0.0860708 t=337
+encwqb 	我不	c=0 d=0.1 t=337
+encwqbk 	我不	c=0 d=0.1 t=337
+encwqbx 	我不想	c=0 d=0.1 t=337
+encwqbz 	我不知	c=0 d=0.1 t=337
+encwqci 	我曾	c=0 d=0.0900325 t=337
+encwqcx 	我曾想	c=0 d=0.0904837 t=337
+encwqd 	我的	c=0 d=0.0923116 t=337
+encwqdw 	我的	c=0 d=0.0923116 t=337
+encwqhk 	我还	c=0 d=0.0995012 t=337
+encwqhs 	我还是	c=0 d=0.1 t=337
+encwqjj 	我救	c=0 d=0.0625002 t=337
+encwql 	我了	c=0 d=0.0794534 t=337
+encwqlj 	我了解	c=0 d=0.0798516 t=337
+encwqlm 	我了	c=0 d=0.0794534 t=337
+encwqlx 	我了解	c=0 d=0.0798516 t=337
+encwqm 	我们	c=0 d=0.0657047 t=337
+encwqmf 	我们	c=0 d=0.0657047 t=337
+encwqmx 	我们想	c=0 d=0.066034 t=337
+encwqmy 	我没有	c=0 d=0.1 t=47
+encwqsj 	我升级	c=0 d=0.083527 t=337
+encwqxz 	我现在	c=0 d=0.0970446 t=337
+encwqyk 	我友	c=0 d=0.1 t=337
+encwqzi 	我曾	c=0 d=0.0900325 t=337
+encwqzx 	我曾想	c=0 d=0.0904837 t=337
+encwsb 	为啥不	c=0 d=0.0718924 t=337
+encwsbh 	为啥不好	c=0 d=0.0722527 t=337
+encwsc 	为啥吃	c=0 d=0.1 t=337
+encwscc 	为啥吃草	c=0 d=0.1 t=337
+encwscd 	晚上吃的	c=0 d=0.0847894 t=337
+encwscs 	晚上吃啥	c=0 d=0.1 t=337
+encwsm 	为什么	c=0 d=0.0628135 t=337
+encwssc 	晚上吃	c=0 d=0.1 t=337
+encwxzc 	我现在才	c=0 d=0.097531 t=337
+encwxzh 	我现在还	c=0 d=0.0729789 t=337
+encwzxg 	我曾想过	c=0 d=0.0909373 t=337
+encxasl 	些啥	c=0 d=0.071177 t=337
+encxdal 	小啊	c=0 d=0.1 t=337
+encxdbw 	小兵	c=0 d=0.0843665 t=337
+encxdj 	小就	c=0 d=0.1 t=337
+encxdjx 	小就小	c=0 d=0.1 t=337
+encxdjx 	想大就雄	c=0 d=0.1 t=337
+encxdjy 	小就	c=0 d=0.1 t=337
+encxdxn 	小仙女	c=0 d=0.0759572 t=337
+encxemt 	行么	c=0 d=0.1 t=337
+encxgyl 	想过一了	c=0 d=0.0918512 t=337
+encxhzb 	现在不	c=0 d=0.0941765 t=337
+encxhzc 	现在才	c=0 d=0.097531 t=337
+encxhzh 	现在还	c=0 d=0.0729789 t=337
+encxjbl 	下吧	c=0 d=0.0909373 t=337
+encxjnl 	下呢	c=0 d=0.0810584 t=337
+encxjub 	下吧	c=0 d=0.0909373 t=337
+encxjxa 	小就小啊	c=0 d=0.1 t=337
+encxjyl 	下映了	c=0 d=0.0694197 t=337
+encxjys 	下映	c=0 d=0.0690734 t=337
+encxkdn 	想看的那	c=0 d=0.067032 t=337
+encxoxv 	学习	c=0 d=0.0644036 t=337
+encxoyy 	学英语	c=0 d=0.0615697 t=337
+encxpqz 	心情作	c=0 d=0.0822835 t=337
+encxqy 	选一	c=0 d=0.0965605 t=337
+encxqyz 	选一	c=0 d=0.0965605 t=337
+encxsjc 	些啥稽查	c=0 d=0.0715338 t=337
+encxsjz 	些啥稽查	c=0 d=0.0715338 t=337
+encxsml 	想什么了	c=0 d=0.097531 t=337
+encxspc 	些啥稽查	c=0 d=0.0715338 t=337
+encxspz 	些啥稽查	c=0 d=0.0715338 t=337
+encxsqc 	些啥稽查	c=0 d=0.0715338 t=337
+encxsqz 	些啥稽查	c=0 d=0.0715338 t=337
+encxtjd 	解决的	c=0 d=0.0755784 t=337
+encxty 	解一	c=0 d=0.0802519 t=337
+encxtyx 	解一下	c=0 d=0.0806541 t=337
+encxtyz 	解一	c=0 d=0.0802519 t=337
+encxvxm 	习项目	c=0 d=0.0647265 t=337
+encxxdj 	想大就	c=0 d=0.1 t=337
+encxxdk 	想大	c=0 d=0.1 t=337
+encxxgj 	想过	c=0 d=0.0909373 t=337
+encxxgy 	想过一	c=0 d=0.0913931 t=337
+encxxjx 	想小就小	c=0 d=0.1 t=337
+encxxkd 	想看的	c=0 d=0.0666977 t=337
+encxxkq 	想看	c=0 d=0.066365 t=337
+encxxl 	想了	c=0 d=0.1 t=337
+encxxlm 	想了	c=0 d=0.1 t=337
+encxxrp 	想让	c=0 d=0.1 t=337
+encxxrt 	想让他	c=0 d=0.1 t=337
+encxxsm 	想什么	c=0 d=0.0970446 t=337
+encxxv 	学习	c=0 d=0.0644036 t=337
+encxxxd 	想小	c=0 d=0.1 t=337
+encxxxj 	想小就	c=0 d=0.1 t=337
+encxxxl 	想想了	c=0 d=0.1 t=337
+encxxxm 	学习项目	c=0 d=0.0647265 t=337
+encxxxx 	想想	c=0 d=0.1 t=337
+encxyxn 	解一下呢	c=0 d=0.0810584 t=337
+encxyy 	学英语	c=0 d=0.0615697 t=337
+encxyym 	学英语么	c=0 d=0.0618783 t=337
+encxzhs 	现在还是	c=0 d=0.0733447 t=337
+encxzsb 	现在上班	c=0 d=0.0763379 t=337
+encybcc 	也不吃草	c=0 d=0.1 t=337
+encybjx 	原版镜像	c=0 d=0.0923116 t=337
+encybyl 	又不慵懒	c=0 d=0.0932394 t=337
+encybym 	英语么	c=0 d=0.0618783 t=337
+encyddm 	养大的么	c=0 d=0.1 t=337
+encyg 	一个	c=0 d=0.1 t=337
+encygf 	一个	c=0 d=0.1 t=337
+encygr 	一个人	c=0 d=0.1 t=337
+encygrn 	一个人呢	c=0 d=0.1 t=337
+encygsd 	应该是到	c=0 d=0.0852144 t=337
+encygx 	一个小	c=0 d=0.0755784 t=337
+encyidd 	养大的	c=0 d=0.1 t=337
+encyjme 	要面儿	c=0 d=0.1 t=337
+encyjmk 	要面	c=0 d=0.1 t=337
+encykg 	一颗	c=0 d=0.0960789 t=337
+encykn 	压你	c=0 d=0.1 t=337
+encyknf 	压你	c=0 d=0.1 t=337
+encykx 	一颗心	c=0 d=0.0965605 t=337
+encyl 	一了	c=0 d=0.0918512 t=337
+encylb 	一了百	c=0 d=0.0923116 t=337
+encylbl 	一了百了	c=0 d=0.0927743 t=337
+encylk 	一列	c=0 d=0.1 t=337
+encylm 	一了	c=0 d=0.0918512 t=337
+encymb 	也不	c=0 d=0.1 t=337
+encymbc 	也不吃	c=0 d=0.1 t=337
+encymbk 	也不	c=0 d=0.1 t=337
+encymea 	要面儿啊	c=0 d=0.1 t=337
+encymfc 	源码反查	c=0 d=0.0995012 t=337
+encymfz 	源码反查	c=0 d=0.0995012 t=337
+encymjx 	源码解析	c=0 d=0.065377 t=337
+encymxx 	源码解析	c=0 d=0.065377 t=337
+encynss 	压你身上	c=0 d=0.1 t=337
+encypy 	说一	c=0 d=0.0900325 t=337
+encypyx 	说一下	c=0 d=0.0904837 t=337
+encypyz 	说一	c=0 d=0.0900325 t=337
+encyrds 	依然提示	c=0 d=0.0909373 t=337
+encyrts 	依然提示	c=0 d=0.0909373 t=337
+encysjt 	用手机听	c=0 d=0.0960789 t=337
+encysl 	映了	c=0 d=0.0694197 t=337
+encyslm 	映了	c=0 d=0.0694197 t=337
+encytdn 	用电脑	c=0 d=0.099005 t=337
+encytsj 	用手机	c=0 d=0.0955997 t=337
+encyvb 	又不	c=0 d=0.0927743 t=337
+encyvbk 	又不	c=0 d=0.0927743 t=337
+encyxb 	一下吧	c=0 d=0.0909373 t=337
+encyxj 	一下	c=0 d=0.0904837 t=337
+encyxn 	一下呢	c=0 d=0.0810584 t=337
+encyxu 	一下吧	c=0 d=0.0909373 t=337
+encyygs 	应该是	c=0 d=0.0847894 t=337
+encyyxb 	说一下吧	c=0 d=0.0909373 t=337
+encyyxu 	说一下吧	c=0 d=0.0909373 t=337
+encyzg 	一个	c=0 d=0.1 t=337
+encyzgf 	一个	c=0 d=0.1 t=337
+encyzgr 	一个人	c=0 d=0.1 t=337
+encyzgx 	一个小	c=0 d=0.0755784 t=337
+encyzkg 	一颗	c=0 d=0.0960789 t=337
+encyzkx 	一颗心	c=0 d=0.0965605 t=337
+encyzl 	一了	c=0 d=0.0918512 t=337
+encyzlb 	一了百	c=0 d=0.0923116 t=337
+encyzlk 	一列	c=0 d=0.1 t=337
+encyzlm 	一了	c=0 d=0.0918512 t=337
+encyzxb 	一下吧	c=0 d=0.0909373 t=337
+encyzxj 	一下	c=0 d=0.0904837 t=337
+encyzxn 	一下呢	c=0 d=0.0810584 t=337
+encyzxu 	一下吧	c=0 d=0.0909373 t=337
+enczczc 	中餐值此	c=0 d=0.1 t=337
+enczdnh 	知道你还	c=0 d=0.0955997 t=337
+enczdns 	知道你是	c=0 d=0.099005 t=337
+enczdtm 	知道他们	c=0 d=0.1 t=337
+enczfyd 	做运动	c=0 d=0.0891366 t=337
+enczfzj 	作自己	c=0 d=0.0826959 t=337
+enczgha 	这个好啊	c=0 d=0.1 t=337
+enczgjc 	中国机长	c=0 d=0.070822 t=337
+enczgjz 	中国机长	c=0 d=0.070822 t=337
+enczhbn 	着很别扭	c=0 d=0.0869358 t=337
+enczhkn 	这很困难	c=0 d=0.0839457 t=337
+enczhku 	这很困难	c=0 d=0.0839457 t=337
+enczihe 	着很	c=0 d=0.0865022 t=337
+encziue 	着很	c=0 d=0.0865022 t=337
+enczixg 	曾想过	c=0 d=0.0909373 t=337
+enczixx 	曾想	c=0 d=0.0904837 t=337
+enczjdv 	最近都这	c=0 d=0.0737123 t=337
+enczjdz 	最近都这	c=0 d=0.0737123 t=337
+enczjhd 	最近花的	c=0 d=0.097531 t=337
+enczkxx 	在想	c=0 d=0.0965605 t=337
+enczlb 	咋不	c=0 d=0.0980199 t=337
+enczlbk 	咋不	c=0 d=0.0980199 t=337
+enczlby 	咋不用	c=0 d=0.0985112 t=337
+enczldy 	这里的一	c=0 d=0.0748264 t=337
+enczlkd 	咋开的	c=0 d=0.0744532 t=337
+enczlkh 	咋开	c=0 d=0.0740818 t=337
+enczmaj 	这么安静	c=0 d=0.0744532 t=337
+enczqdn 	知道你	c=0 d=0.0985112 t=337
+enczqdt 	知道他	c=0 d=0.1 t=337
+enczqpc 	制皮	c=0 d=0.0923116 t=337
+enczqqb 	重启吧	c=0 d=0.1 t=337
+enczqqu 	重启吧	c=0 d=0.1 t=337
+enczqzm 	知怎么	c=0 d=0.1 t=337
+enczsjd 	最近都	c=0 d=0.0733447 t=337
+enczsjh 	最近花	c=0 d=0.0970446 t=337
+enczubn 	着很别扭	c=0 d=0.0869358 t=337
+enczukn 	这很困难	c=0 d=0.0839457 t=337
+enczwhf 	自恢复	c=0 d=0.1 t=337
+enczwzt 	中文字体	c=0 d=0.1 t=337
+enczxgy 	曾想过一	c=0 d=0.0913931 t=337
+enczxsm 	在想什么	c=0 d=0.0970446 t=337
+enczxx 	在想	c=0 d=0.0965605 t=337
+enczyg 	这个	c=0 d=0.099005 t=337
+enczygf 	这个	c=0 d=0.099005 t=337
+enczygh 	这个好	c=0 d=0.0995012 t=337
+enczyhe 	这很	c=0 d=0.083527 t=337
+enczyld 	这里的	c=0 d=0.0744532 t=337
+enczylg 	这里	c=0 d=0.0740818 t=337
+enczymt 	这么	c=0 d=0.0740818 t=337
+enczyue 	这很	c=0 d=0.083527 t=337
+enczyy 	这一	c=0 d=0.1 t=337
+enczyyz 	这一	c=0 d=0.1 t=337

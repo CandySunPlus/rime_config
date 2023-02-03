@@ -1,0 +1,36 @@
+patch:
+  engine/translators/@next: reverse_lookup_translator
+  translator/enable_user_dict: true
+  reverse_lookup/prefix: "`"
+  reverse_lookup/suffix: "'"
+  reverse_lookup/dictionary: luna_pinyin
+  reverse_lookup/tips: 〔拼音〕
+  reverse_lookup/preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  recognizer/patterns/reverse_lookup: "`[a-z]*'?$"
+  abc_segmentor/extra_tags:
+    - reverse_lookup
+  switches/+:
+    - name: emoji_suggestion
+      reset: 1
+      states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+    - name: symbol_support
+      reset: 1
+      states: [ "无符", "→符" ]
+  engine/+:
+    filters:
+      - charset_filter@gb2312
+      - simplifier@emoji_suggestion
+      - simplifier@symbol_support
+      - simplifier # 简体
+      - uniquifier #
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all
+  symbol_support:
+    opencc_config: symbol.json
+    option_name: symbol_support
+    tips: all
