@@ -1,0 +1,11 @@
+patch:
+  style/color_scheme: psionics # 方案命名，不能有空格
+  style/inline_preedit: true
+  style/horizontal: true
+  style/line_space: 1
+  style/corner_radius: 5 
+  style/border_height: 0
+  style/border_width: 0
+  style/font_face: "仓耳今楷04"
+  style/font_point: 15
+
