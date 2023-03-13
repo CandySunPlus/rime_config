@@ -1,5 +1,5 @@
 patch:
-  style/color_scheme: flat-dark # 方案命名，不能有空格
+  style/color_scheme: flat-light # 方案命名，不能有空格
 
   "preset_color_schemes/psionics":
     color_space: display_p3
@@ -10,7 +10,7 @@ patch:
     corner_radius: 5 
     border_height: 0
     border_width: 0
-    font_face: "Linux Biolinum O, Noto Serif SC"
+    font_face: "仓耳今楷04 W03"
     translucency: true
 
   "preset_color_schemes/flat-light":
@@ -32,6 +32,7 @@ patch:
     text_color: 0xBF323232
     hilited_back_color: 0x0D000000
     hilited_text_color: 0xBF1A1A1A
+    font_face: "仓耳今楷04 W03"
 
   "preset_color_schemes/flat-dark":
     name: 扁平闇／Flat Dark
@@ -52,3 +53,4 @@ patch:
     text_color: 0xBFE5E5E5
     hilited_back_color: 0x0D000000
     hilited_text_color: 0xBFFFFFFF
+    font_face: "仓耳今楷04 W03"
